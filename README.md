@@ -6,4 +6,4 @@
 
 ### Hosting Malaya
 Ini adalah hosting terbaik dan dipercayai di Malaysia.
-<a href="https://billing.hostingmalaya.com/aff.php?aff=29" ><img size="65" src="http://billing.hostingmalaya.com/assets/img/logo.png" ></a > 
+<a href="https://billing.hostingmalaya.com/aff.php?aff=29" ><img height="120" src="http://billing.hostingmalaya.com/assets/img/logo.png" ></a > 
