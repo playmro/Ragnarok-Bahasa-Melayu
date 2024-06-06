@@ -1,3 +1,5 @@
+<img src="doc/robm.png" align="right" height="90" />
+
 # Ragnarok-Bahasa-Melayu
 >Projek peralihan bahasa dari English ke Bahasa Melayu.
 
