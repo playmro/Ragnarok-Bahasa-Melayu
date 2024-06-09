@@ -1,0 +1,2 @@
+// Terhad kepada 128 baris. Jika anda memerlukan lebih banyak lagi, anda perlu mengubah suai pada MOTD_LINE_SIZE dalam pc.cpp
+Selamat datang ke dunia Ragnarok Online!
